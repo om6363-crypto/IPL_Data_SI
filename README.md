@@ -1,6 +1,15 @@
 IPL Stats Dashboard
 Welcome to the IPL Stats Dashboard! This project is a full-stack web application that provides comprehensive statistics and details about IPL matches, top players, and matches within specific date ranges. The dashboard is built using React for the frontend, .NET Core for the backend, and PostgreSQL for data storage.
 
+
+
+![Screenshot (181)](https://github.com/user-attachments/assets/0a621bcf-778e-4e31-bd96-158827f7720e)
+![Screenshot (182)](https://github.com/user-attachments![Screenshot (183)](https://github.com/user-attachments/assets/c1b2f3f6-34b2-4219-a6eb-6cd3ad6135e1)
+/assets/11dacb86-ba64-44ee-8b9e-f3257d8c1a91)
+![Screenshot (184)](https://github.com/user-attachments/assets/95043f5c-c857-491f-bead-cf4c9bd64eef)
+
+
+
 🌟 Features
 Match Statistics: View detailed statistics of IPL matches, including match date, venue, teams, and total engagements.
 Top Players: Discover the top players based on matches played.
