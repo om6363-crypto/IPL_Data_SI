@@ -4,8 +4,11 @@ Welcome to the IPL Stats Dashboard! This project is a full-stack web application
 
 
 ![Screenshot (181)](https://github.com/user-attachments/assets/0a621bcf-778e-4e31-bd96-158827f7720e)
-![Screenshot (182)](https://github.com/user-attachments![Screenshot (183)](https://github.com/user-attachments/assets/c1b2f3f6-34b2-4219-a6eb-6cd3ad6135e1)
-/assets/11dacb86-ba64-44ee-8b9e-f3257d8c1a91)
+
+![Screenshot (182)](https://github.com/user-attachments/assets/9b7f5154-b01a-4e05-b1c6-cdc867b35932)
+
+![Screenshot (183)](https://github.com/user-attachments/assets/13aabb95-e8f6-4ec7-8778-d1daa00b4631)
+
 ![Screenshot (184)](https://github.com/user-attachments/assets/95043f5c-c857-491f-bead-cf4c9bd64eef)
 
 
